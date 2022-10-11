@@ -1,8 +1,8 @@
 Movie_name : str = "Red"
 
-Movie_rating : int = 1
+Movie_rating : int = 3
 
-score_popularity : float = 50
+score_popularity : float = 72.65
 
 if Movie_rating >= 4  and score_popularity >= 80 :
     print("Highly recommended")
